@@ -1,0 +1,6 @@
+﻿__pycache__/
+*.pyc
+*.bak
+fin-diario.py
+fin-diario.html
+iol_setup.py
